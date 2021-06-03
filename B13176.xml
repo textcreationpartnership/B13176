@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning tin and pewter.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13176</idno><idno type="EEBO-CITATION">99892850</idno>
+  <idno type="VID">192346</idno>
+  <idno type="EEBO-PROQUEST">2240927275</idno>
+  
+            <idno type="STC">STC 9163</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[9]</idno>
+            <idno type="STC">ESTC S124127</idno>
+            <idno type="PROQUEST">ocm99892850</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892850e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192346)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning tin and pewter.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end of text: ... VVhitehall, the four and twentieth day of July, in the sixteenth yeer of Our reign.</note>
+                  <note>Arms 24; Steele notation: many mine 2) Vessels, their.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pewter --  Early works to 1800.</term>
+               <term type="topical_term">Tin --  Early works to 1800.</term>
+               <term type="topical_term">Import quotas --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192346:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation concerning Tin and Pewter.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Tin of this Our Kingdom hath been for many</hi> ages a Commodity of great estimation, and very rare in all for<g ref="char:EOLhyphen"/>rain parts, and the working and getting thereof hath been and now is the livelihood and imployment of many thousands of Our poor Subjects, Labourers and Workmen in the said Tin<g ref="char:EOLhyphen"/>works; and being a Staple-Commodity of much honour and profit to this Realm, by the princely care of Our Royall Proge<g ref="char:EOLhyphen"/>nitors and Predecessors, hath been in all times especially therish<g ref="char:EOLhyphen"/>ed and maintained: And whereas We are informed, That a Tin Mine hath lately been discovered in the parts of <hi>Barbary,</hi> whereby the vent of English Tin in forrain parts (which hath formerly been made in some good yeerly proportion) and by that means hath advanced to Vs an increase of profit and Re<g ref="char:EOLhyphen"/>venue, is like to be much lessened: and not onely the poor Labourers in the Tin-works within this Our Realm hereby be destitute of imployment, but also the Pewterers of this Kingdom, who usually make much wrought Ware for exportation, deprived of that part of their maintenance, if some due and timely provision shall not be made therein: And there<g ref="char:EOLhyphen"/>fore for a more generall use hereafter of Tin and Pewter within Our Dominions, We have thought fit, by advice of Our Privie Councell, as well to restrain the Importation from forrain parts of all Vessels of Tin and Pewter into any Our Kingdoms (as by an Act of Parliament it is already into Our Realm of <hi>England</hi>) as to require and enjoyn Our own Subjects (for upholding a native Commodity of such worth) to a more common and ge<g ref="char:EOLhyphen"/>nerall use of the same within Our own Kingdoms.</p>
+            <p>And to that end, We do hereby declare Our Royall will and pleasure to be, and do strait<g ref="char:EOLhyphen"/>ly charge and command, That no Merchants, Marriners, or other person or persons whatsoever, do hereafter import, convey, or bring, or cause to be imported, conveyed, or brought from any the parts beyond the Seas, into Our Realms of <hi>England,</hi> or <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> or any of them, any Tin, Tin-Oar, or Pewter, of what kinde sol<g ref="char:EOLhyphen"/>ver, either wrought into any sort of Vessels, or Manufactures, or otherwise unwrought, upon pain of the losse and forfeiture as well of the said Tin, Tin-Oar, and Pewter Vessels, or Manufactures of Tin and Pewter, so imported, as of the Ships wherein the same shall be shipped or conveyed; and upon such further penalties and punishments as shall be meet for the contempt or neglect of Our Royall commandment herein.</p>
+            <p>And We do further declare Our Royall will and pleasure to be (and that under the pains and penalties aforesaid) That no Masters or owners of shipping belonging to any of Our Subjects, shall hereafter therein fraught or lade for any of Our naturall born Subjects, or for the Subjects of any other Kingdom or State, any Tin, or Tin-Oar, made or got<g ref="char:EOLhyphen"/>ten, or to be made or gotten out of the said Mine in <hi>Barbary,</hi> or any other forrain Mines, to transport the same from or to any parts or places whatsoever; whereby so much dammage may arise to Vs and Our Subjects.</p>
+            <p>And for the better and larger vent of the Tin growing within this Our Kingdom, by a more frequent use thereof here, We do further declare Our Royall will and pleasure to be, and do straitly charge and command, That from henceforth all Measures, of what sorts or sizes soever, wherein Wine, Beer, or Ale, or any other liquid thing whatsoever, is or shall be usually uttered, sold, or served in by retail, either abroad or within doors, by any keepers of Taverns, Inns, Alehouses, Victualling houses, Shops, or the like, within Our Realms of <hi>England,</hi> or <hi>Ireland,</hi> or Dominion of <hi>Wales,</hi> shall be made of Tin or Pewter, and shall be Stamped and Sealed according to the Laws and Statutes of this Realm provided in that behalf.</p>
+            <p>And for the better accomplishment of Our Royall intention in the Premisses, We do hereby will and require all Our Iustices of Peace within Our said Realms of <hi>England, Ireland,</hi> and Dominion of <hi>Wales,</hi> That from henceforth and from time to time hereafter, they take speciall care to admit, continue, and allow such persons onely to keep common Alehouses, or Tipling-houses, and to use common selling of Ale or Beer, as shall conform themselves to Our pleasure herein declared, in the use of Pewter pots and Measures onely, and those duly Sized and Sealed according to the Law, as they tender Our displeasure, and will answer for the contrary at their utmost perils.</p>
+            <p>And lastly, We do hereby straitly charge and command, as well Our Customers, Comp<g ref="char:EOLhyphen"/>trollers, Surveyours, Searchers, and other Our Officers in all Our Ports and Custom-houses, as also all Iustices of Peace, Majors, Sheriffs, Bailiffs, Constables, and other Our Officers and Ministers whatsoever, whom it shall concern, to take speciall care in their severall Offices and places, that Our Royall will and pleasure hereby declared touching the Premisses, be from time to time duly observed, as they will answer the contrary at their utmost perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Whitehall, </hi>
+                  <date>
+                     <hi>the four and twentieth day of July, in the sixteenth yeer of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ <hi>God save the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most excellent Majesty: And by the Assignes of JOHN BILL. 1640.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
